@@ -16,7 +16,7 @@ namespace CalcLibrary.Test
         public void Test2()
         {
             double ris = Calc.RadQ(5);
-            Assert.AreEqual(2.2360679775, ris);
+            Assert.AreEqual(2.2360679775, ris );
         }
 
         [TestMethod]
